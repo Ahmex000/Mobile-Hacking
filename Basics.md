@@ -1,3 +1,7 @@
 - https://habr.com/en/companies/swordfish_security/articles/660179/
 - https://www.blackhillsinfosec.com/intercepting-traffic-for-mobile-applications/
 - https://www.facebook.com/share/p/1BFDoeVXf6/
+- https://www.cobalt.io/blog/tag/mobile-application-pentesting
+- https://www.hackerone.com/blog/pentesting-android-mobile-applications
+- https://www.blazeinfosec.com/post/mobile-application-penetration-testing/
+- https://blog.oversecured.com/
